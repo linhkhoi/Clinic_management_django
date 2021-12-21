@@ -1,0 +1,10 @@
+{% extends 'admin/base_site.html' %}
+{% block content %}
+<h1>THỐNG KÊ THÔNG TIN CÁC BỆNH</h1>
+<h2>Số lượng bệnh: {{ sick_count }}</h2>
+<ul>
+{% for c in stats %}
+<li><strong>{{ c.name }}</strong> có {{ c.medicine_count }} loại thuốc </li>
+{% endfor %}
+</ul>
+{% endblock %}
