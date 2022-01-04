@@ -3,7 +3,7 @@
 # ĐỒ ÁN MÔN HỌC
 ## Thông tin môn học
 - Lớp: **DH18IT82**
-- Học kỳ: **1 (2021-2022)**
+- Học kỳ: **3 (2020-2021)**
 - Giảng viên: **Dương Hữu Thành**
 ## Thông tin sinh viên thực hiện
 
