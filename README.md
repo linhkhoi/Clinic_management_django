@@ -34,5 +34,11 @@
 - Y tá sẽ thanh toán tiền khám của bệnh nhân dựa trên toa thuốc và phiếu khám, y tá sẽ sử dụng thanh toán online bằng ví điện tử ZaloPay cho khách hàng thanh toán.
 
 #### Bệnh nhân:
-- Bệnh nhân có thể đặt phiếu khám bệnh trực tuyến trên trang web của bệnh viện, bệnh nhân sẽ nhận được mail sau khi xác nhận thành công
-- Bệnh nhân có thể thanh toán phí khám bằng ví điện tử ZaloPay
+- Bệnh nhân có thể đặt phiếu khám bệnh trực tuyến trên trang web của bệnh viện, bệnh nhân sẽ nhận được mail sau khi xác nhận thành công.
+- Bệnh nhân có thể thanh toán phí khám bằng ví điện tử ZaloPay.
+- 
+## Các hình ảnh từ bài tập lớn
+![screenshot1](https://github.com/linhkhoi/Clinic_management_django/blob/main/screenshot/Screenshot%20(8).png)
+![screenshot2](https://github.com/linhkhoi/Clinic_management_django/blob/main/screenshot/Screenshot%20(9).png)
+![screenshot3](https://github.com/linhkhoi/Clinic_management_django/blob/main/screenshot/Screenshot%20(10).png)
+![screenshot4](https://github.com/linhkhoi/Clinic_management_django/blob/main/screenshot/Screenshot%20(11).png)
